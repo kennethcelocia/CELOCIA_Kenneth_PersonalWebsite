@@ -1,0 +1,96 @@
+body{
+    background-color: gray;
+    font-family: "Lucida Sans", Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+/*TEXT*/
+h1{
+    font-size: 180%;
+    border-radius: 10px;
+    background-color: dimgrey;
+}
+
+h2{
+    font-size: 150%;
+    background-color: dimgrey;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 100%;
+}
+
+/*DIVISIONS*/
+div{
+    border-color: gray;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#detailsAtHome{
+    text-align: center;
+    margin: auto;
+}
+#mainAbout{
+    text-align: center;
+    margin: auto;
+}
+
+#nav{
+    background-color: black;
+    color: white;
+    width: 98.75%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#imagery{
+    position: relative;
+}
+
+#imageryAbout{
+    position: relative;
+}
+
+#king{
+    background-color: dimgrey;
+    margin-top: 3%;
+    text-align: center;
+}
+
+#icons{
+    margin-top: 60px;
+    text-align: center;
+    background-color: dimgrey;
+    
+}
+
+#space{
+    margin: auto;
+    padding: inherit;
+}
+
+/*UL LI*/
+li{
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+ul{
+    text-align: center;
+    
+}
+
+
+/*LINKS*/
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a.on{
+    color: #D5921D;
+}
+
