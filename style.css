@@ -19,6 +19,7 @@ h2{
 
 p{
     font-size: 100%;
+    line-height: 1.75;
 }
 
 /*DIVISIONS*/
@@ -57,6 +58,12 @@ div{
 
 #imageryAbout{
     position: relative;
+}
+
+
+
+.kennethcelocia_lowercase{
+    text-transform: lowercase;
 }
 
 #king{
